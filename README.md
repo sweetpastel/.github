@@ -1,3 +1,3 @@
-# About
+# README
 
-This still in work in progress
+A profile readme
