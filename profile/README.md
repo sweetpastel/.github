@@ -1,3 +1,1 @@
-A smooth pastel theme inspired by [Catppuccin](https://github.com/catppuccin)
-
-README WIP
+A color palette that might burn your eyes when you stare at it
