@@ -1,1 +1,1 @@
-A color palette that might burn your eyes when you stare at it
+A color palette inspired by pastel foods
