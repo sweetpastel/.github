@@ -1,1 +1,1 @@
-A smooth pinkish color scheme inspired by pastel foods.
+a smooth pinkish color scheme inspired by pastel foods.
